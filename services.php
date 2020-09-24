@@ -30,7 +30,96 @@
     <!-- Start Our Services
     ============================================= -->
     <div class="services-area bg-gray default-padding bottom-less">
-        
+        <div class="container">
+            <div class="services-items">
+                <div class="row">
+                    <!-- Single Item -->
+                    <div class="services-single col-lg-6">
+                        <div class="item">
+                            <div class="info">
+                                
+                                <h4>
+                                    <a href="#">Medical Advice</a>
+                                </h4>
+                                <p>
+                                    Advise lawyers regarding medical facts and issues relating to a case or claim. 
+                                </p>
+                                <ul>
+                                    <li>Interviewing involved parties</li>
+                                    <li>Identifying appropriate expert witnesses</li>
+                                    <li>Retaining appropriate expert witnesses</li>
+                                    
+                                    
+                                </ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="services-single col-lg-6">
+                        <div class="item">
+                            <div class="info">
+                                
+                                <h4>
+                                    <a href="#">Medical Records Review</a>
+                                </h4>
+                                <p>
+                                    Review medical records, evidence and applicable literature to determine the merit of a case. 
+                                </p>
+                                <ul>
+                                    <li>Review medical records</li>
+                                    <li>Organize records</li>
+                                    <li>Identifying missing medical records</li>
+                                    <li>Summarize medical records</li>
+                                    <li> Identifying record tampering</li>
+                                </ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="services-single col-lg-6">
+                        <div class="item">
+                            <div class="info">
+                                
+                                <h4>
+                                    <a href="#">Liaising</a>
+                                </h4>
+                                <p>
+                                    Serving as a liason between lawyers, health care providers, testifying experts, witnesses, clients and other involved partites. 
+                                </p>
+                                <ul>
+                                    
+                                </ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="services-single col-lg-6">
+                        <div class="item">
+                            <div class="info">
+                                
+                                <h4>
+                                    <a href="#">Coordinating</a>
+                                </h4>
+                                <p>
+                                    Assist in coordinating and attending post-moterms on behalf of our clients 
+                                </p>
+                                <ul>
+                                    
+                                </ul>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                </div>
+            </div>
+        </div>
     </div>
     <!-- End Our Services -->
 

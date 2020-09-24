@@ -19,11 +19,9 @@
                                         <a href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
                                     <li class="youtube">
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
+                                        <a href="#"><i class="fab fa-linkedin"></i></a>
                                     </li>
-                                    <li class="instagram">
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -50,22 +48,22 @@
                         </div>
                     </div> 
                     <div class="single-item col-lg-4 col-md-7 item">
-                        <div class="f-item link">
+                        <div class="f-item link" >
                             <h4 class="widget-title">Usefull Links</h4>
                             <ul>
                                 <li>
-                                    <a href="#">Home</a>
+                                    <a href="index.php" style="color:white">Home</a>
                                 </li>
                                 
-                                <!--<li>
-                                    <a href="#">Blog</a>
-                                </li> -->
+                                <li>
+                                    <a href="blog.php"style="color:white">Blog</a>
+                                </li> 
                                 
                                 <li>
-                                    <a href="#">About Us</a>
+                                    <a href="about-us.php" style="color:white">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#">Contact</a>
+                                    <a href="contact.php" style="color:white">Contact</a>
                                 </li>
                             </ul>
                         </div>

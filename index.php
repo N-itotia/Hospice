@@ -32,7 +32,7 @@
                                     <div class="col-lg-9">
                                         <div class="content">
                                         	<ul data-animation="animated slideInLeft">
-                                            	<li>Personal Injury</li>
+                                            	<li>Medical Records Review</li>
                                             	<li>Modern equipment</li>
                                             </ul>
                                             <h2 data-animation="animated slideInDown">Medicolegal <strong>Consultancy</strong></h2>
@@ -52,10 +52,9 @@
                                     <div class="col-lg-9">
                                         <div class="content">
                                         	<ul data-animation="animated slideInLeft">
-                                            	<li>Criminal Cases</li>
-                                            	<li>Independent Medical Examinations</li>
+                                            <li>Independent Medical Examinations</li>
                                             </ul>
-                                            <h2 data-animation="animated slideInDown">Medicolegal  <strong>Consultancy</strong></h2>
+                                            <h2 data-animation="animated slideInDown">Medical  <strong>Advice</strong></h2>
                                             <a data-animation="animated fadeInUp" class="btn btn-md btn-info" href="about-us.php">Discover More</a>
                                         </div>
                                     </div>

@@ -132,7 +132,7 @@
                         </li>
                         
                         <li class="dropdown">
-                            <a href="blog-single-with-sidebar.php">Blog</a>
+                            <a href="blog.php">Blog</a>
                             
                         </li>
                         <li>
