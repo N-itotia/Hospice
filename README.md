@@ -1,4 +1,4 @@
-# Hospice
+# Athenia
 ## About The Project
 Simple static website for a hospital. Includes basic CRUD and a blog maybe.
 
