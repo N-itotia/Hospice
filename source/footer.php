@@ -1,16 +1,16 @@
- <footer class="bg-dark text-light">
-        <div class="container">
+ <footer  class=" background-color:#06335d text-light" style="background-color:#06335d">
+        <div   class="container">
             <div class="f-items default-padding">
-                <div class="row">
+                <div  class="row">
                     <div class="single-item col-lg-4 col-md-6 item">
                         <div class="f-item about">
                             <h4 class="widget-title">About Us</h4>
                             <p>
-                                Required honoured trifling eat pleasure man relation. Assurance yet bed was improving furniture man. Distrusts delighted
+                                Athenia Medicolegal Consultancy addresses the complex issues on cases where medical and legal worlds collide.
                             </p>
-                            <a class="btn btn-md left-icon btn-gradient" href="#"><i class="fas fa-plus"></i> Blood Bank</a>
+                            <!--<a class="btn btn-md left-icon btn-gradient"  href="#"><i class="fas fa-plus"></i> Blood Bank</a>-->
                             <div class="social">
-                                <h5>Get Us:</h5>
+                                <h5>Follow Us:</h5>
                                 <ul>
                                     <li class="facebook">
                                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -29,61 +29,13 @@
                         </div>
                     </div>
 
-                    <div class="single-item col-lg-2 col-md-6 item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Department</h4>
-                            <ul>
-                                <li>
-                                    <a href="#">Medecine and Health</a>
-                                </li>
-                                <li>
-                                    <a href="#">Dental Care</a>
-                                </li>
-                                <li>
-                                    <a href="#">Eye Treatment</a>
-                                </li>
-                                <li>
-                                    <a href="#">Children Chare</a>
-                                </li>
-                                <li>
-                                    <a href="#">Traumatology</a>
-                                </li>
-                                <li>
-                                    <a href="#">X-ray</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    
 
-                    <div class="single-item col-lg-2 col-md-6 item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Usefull Links</h4>
-                            <ul>
-                                <li>
-                                    <a href="#">Ambulance</a>
-                                </li>
-                                <li>
-                                    <a href="#">Emergency</a>
-                                </li>
-                                <li>
-                                    <a href="#">Blog</a>
-                                </li>
-                                <li>
-                                    <a href="#">Project</a>
-                                </li>
-                                <li>
-                                    <a href="#">About Us</a>
-                                </li>
-                                <li>
-                                    <a href="#">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    
 
-                    <div class="single-item col-lg-4 col-md-6 item">
+                    <div class="single-item col-lg-4 col-md-7  item">
                         <div class="f-item branches">
-                            <h4 class="widget-title">Our branches</h4>
+                            <!--<h4 class="widget-title">Our branches</h4>
                             <div class="branches">
                                 <ul>
                                     <li>
@@ -94,20 +46,48 @@
                                         
                                     </li>
                                 </ul>
-                            </div>
+                            </div>-->
+                        </div>
+                    </div> 
+                    <div class="single-item col-lg-4 col-md-7 item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Usefull Links</h4>
+                            <ul>
+                                <li>
+                                    <a href="#">Home</a>
+                                </li>
+                                
+                                <!--<li>
+                                    <a href="#">Blog</a>
+                                </li> -->
+                                
+                                <li>
+                                    <a href="#">About Us</a>
+                                </li>
+                                <li>
+                                    <a href="#">Contact</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Footer Bottom -->
-        <div class="footer-bottom">
+        <div class=" background-color:#06335d footer-bottom">
             <div class="container">
                 <div class="row align-center">
                     <div class="col-lg-6">
-                        <!-- <p>&copy; 2020 <strong>Hospitaling</strong>. All Rights Reserved by <a href="#"></a></p>-->
+                        <?php function auto_copyright($year = 'auto'){ ?>
+   <?php if(intval($year) == 'auto'){ $year = date('Y'); } ?>
+   <?php if(intval($year) == date('Y')){ echo intval($year); } ?>
+   <?php if(intval($year) < date('Y')){ echo intval($year) . ' - ' . date('Y'); } ?>
+   <?php if(intval($year) > date('Y')){ echo date('Y'); } ?>
+<?php } ?>
+                        
+                        <p>&copy;2019 - <?php auto_copyright();?> <strong>Athenia</strong>.  <a href="#"></a></p>
                     </div>
-                    <div class="col-lg-6 text-right link">
+                    <!-- <div class="col-lg-6 text-right link">
                         <ul>
                             <li>
                                 <a href="#">Terms</a>
@@ -119,8 +99,9 @@
                                 <a href="#">Support</a>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
+     
     </footer>

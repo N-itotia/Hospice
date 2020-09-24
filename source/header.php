@@ -1,41 +1,67 @@
-    <!-- Start Header Top 
+<head>
+    <!-- ========== Meta Tags ========== -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Name - Medical & Health Template">
+
+    <!-- ========== Page Title ========== -->
+    <title>Athenia</title>
+
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+    
+    <!-- ========== Start Stylesheet ========== -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="assets/css/themify-icons.css" rel="stylesheet" />
+    <link href="assets/css/flaticon-set.css" rel="stylesheet" />
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" />
+    <link href="assets/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="assets/css/animate.css" rel="stylesheet" />
+    <link href="assets/css/bootsnav.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet" />
+    <link href="assets/fonts/Mycollection-SVG-sprite.svg"./>
+    <link rel="stylesheet" type="text/css" href="assets/img/"> 
+    
+    <!-- ========== End Stylesheet ========== -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5/html5shiv.min.js"></script>
+      <script src="assets/js/html5/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ========== Google Fonts ========== -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;700;800&display=swap" rel="stylesheet">
+
+</head> 
+<!-- Start Header Top 
     ============================================= -->
-    <div class="top-bar-area">
-        <div class="container">
+    <div style="background-color:#06335d"  class="top-bar-area background-color:#06335d text-light inline" >
+        <div  class="container">
             <div class="row align-center">
-                <div class="col-lg-3 logo">
-                    <a href="index.php">
-                        <img src="assets/img/logo-light.png" class="logo" alt="Logo">
-                    </a>
-                </div>
-                <div class="col-lg-9 address-info text-right">
-                    <div class="info box">
+                <div class="col-lg-7 address-info">
+                    <div class="info box" >
                         <ul>
                             <li>
-                                <div class="icon">
-                                    <i class="flaticon-email"></i>
-                                </div>
-                                <div class="info">
-                                    <span>Email</span> Info@gmail.com
-                                </div>
+                                <i class="fas fa-map-marker-alt" style="color:#F4EC07"></i> Nairobi, Kenya
                             </li>
                             <li>
-                                <div class="icon">
-                                    <i class="flaticon-call"></i>
-                                </div>
-                                <div class="info">
-                                    <span>Phone</span> +123 456 7890
-                                </div>
+                                <i class="fas fa-envelope-open" style="color:#F4EC07"></i> Info@gmail.com
                             </li>
                             <li>
-                                <div class="icon">
-                                    <i class="flaticon-clock-1"></i>
-                                </div>
-                                <div class="info">
-                                    <span>Office Hours</span> Sat - Wed : 8:00 - 4:00
-                                </div> 
+                                <i class="fas fa-phone" style="color:#F4EC07"></i>+254 722 240 906
                             </li>
                         </ul>
+                    </div>
+                </div>
+                <div class="col-lg-5  text-right button" style="color:#F4EC07">
+                    <div class="item-flex">
+                        <a class="button" href="contact.php" style="color:#F4EC07">Make Appoinment</a>
                     </div>
                 </div>
             </div>
@@ -45,96 +71,83 @@
 
     <!-- Header 
     ============================================= -->
-    <header>
-        <div class="container box-nav">
-            <div class="row">
-                <!-- Start Navigation -->
-                <nav id="mainNav" class="navbar logo-less top-less navbar-default navbar-fixed white bootsnav on no-full nav-box no-background">
-                    
-                    <div class="container">            
-                        <!-- Start Atribute Navigation -->
-                        <div class="attr-nav contact">
-                            <ul>
-                                <li>
-                                    <i class="fas fa-stethoscope"></i>
-                                    <p>
-                                        Emergency <span>+ 254 123456879</span>
-                                    </p>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- End Atribute Navigation -->
+    <header id="home">
 
-                        <!-- Start Header Navigation -->
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                                <i class="fa fa-bars"></i>
-                            </button>
-                            <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" class="logo" alt="Logo"></a>
-                        </div>
-                        <!-- End Header Navigation -->
+        <!-- Start Navigation -->
+        <nav class="navbar navbar-default dark attr-border bootsnav">
 
-                        <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse" id="navbar-menu">
-                            <ul class="nav navbar-nav navbar-left" data-in="fadeInDown" data-out="fadeOutUp">
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Home</a>
-                                    <ul class="dropdown-menu">
-                                       <li><a href="index.php">Home Version 1</a></li>
-                                <!--<li><a href="index-2.php">Home Version Two</a></li>
-                                <li><a href="index-3.php">Home Version Three</a></li>
-                                <li><a href="index-4.php">Home Version Four</a></li>
-                                <li><a href="index-5.php">Home Version Five</a></li>
-                                <li><a href="index-6.php">Home Version Six</a></li>-->
-                                <li><a href="index-7.php">Home Version 2</a></li>
-                                    </ul> 
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Pages</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="about-us.php">About Us</a></li>
-                                        <li><a href="contact.php">Contact Us</a></li>
-                                        <li><a href="404.php">Error Page</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Departments</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="department.php">Department Version One</a></li>
-                                        <li><a href="department-2.php">Department Version Two</a></li>
-                                        <li><a href="department-single.php">Department Single</a></li>
-                                    </ul>
-                                </li>
-                                <!--<li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Doctors</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="doctors.php">Doctors Grid</a></li>
-                                        <li><a href="doctors-carousel.php">Doctors Carousel</a></li>
-                                        <li><a href="doctor-single.php">Doctor Single</a></li>
-                                    </ul>
-                                </li> -->
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Blog</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="blog-standard.php">Blog Standard</a></li>
-                                        <li><a href="blog-with-sidebar.php">Blog With Sidebar</a></li>
-                                        <li><a href="blog-2-colum.php">Blog Grid Two Colum</a></li>
-                                        <li><a href="blog-3-colum.php">Blog Grid Three Colum</a></li>
-                                        <li><a href="blog-single.php">Blog Single</a></li>
-                                        <li><a href="blog-single-with-sidebar.php">Blog Single With Sidebar</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="contact.php">contact</a>
-                                </li>
-                            </ul>
-                        </div><!-- /.navbar-collapse -->
-                    </div>   
-                </nav>
-                <!-- End Navigation -->
-                <div class="clearfix"></div>
-                
+            <!-- Start Top Search -->
+            <div style="background-color:#06335d" class="container">
+                <div class="row">
+                    <div class="top-search">
+                        <div class="input-group">
+                            <form action="#">
+                                <input type="text" name="text" class="form-control" placeholder="Search">
+                                <button type="submit">
+                                    <i class="ti-search"></i>
+                                </button>  
+                            </form>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
+            <!-- End Top Search -->
+
+            <div class="container">
+
+                <!-- Start Atribute Navigation -->
+                <div class="attr-nav">
+                    <ul>
+                       <!-- <li class="search"><a href="#"><i class="ti-search"></i></a></li> -->
+                       <!-- <li class="side-menu"><a href="#"><i class="ti-menu-alt"></i></a></li> -->
+                    </ul>
+                </div>        
+                <!-- End Atribute Navigation -->
+
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="index.php">
+                        <img src="assets/img/logo.png" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+                        <li class="dropdown" >
+                            <a href="index.php"  >Home</a>
+                            
+                        </li>
+                        <li class="dropdown">
+                            <a href="about-us.php"  >About us</a>
+
+                        </li>
+                        <li class="dropdown">
+                            <a href="services.php">Services</a>
+                            
+                        </li>
+                        
+                        <li class="dropdown">
+                            <a href="blog-single-with-sidebar.php">Blog</a>
+                            
+                        </li>
+                        <li>
+                            <a href="contact.php">contact</a>
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div>
+
+            <!-- Start Side Menu -->
+           
+            <!-- End Side Menu -->
+
+        </nav>
+        <!-- End Navigation -->
+
     </header>
     <!-- End Header -->
