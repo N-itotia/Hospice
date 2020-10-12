@@ -65,12 +65,7 @@
                                             <span class="alert-error"></span>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input class="form-control" id="date" name="date" placeholder="Appointment Date" type="date">
-                                            <span class="alert-error"></span>
-                                        </div>
-                                    </div>
+                                    
                                     
                                 </div>
                                 <div class="row">

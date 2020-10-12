@@ -108,12 +108,12 @@
                                     <div class="content-box">
                                         <div class="info-title">
                                             <i class="flaticon-test"></i>
-                                            <h4><a href="#">Medical Examinations</a></h4>
+                                            <h4><a href="#">Medical Expertise</a></h4>
                                         </div>
                                     </div>
                                     <div class="info">
                                         <p>
-                                            Article smiling respect opinion excited. Welcomed humoured rejoiced peculiar to remaining conveying.
+                                            Our main vision is to form a connection between medicine and law by providing medical expertise in litigation with the goal of solving challenges so that our clients have successful outcomes.
                                         </p>
                                         <button type="button" class="btn btn-info"><i class="fa fa-angle-right"></i> Read More </button> 
                                     </div>
@@ -136,7 +136,7 @@
                                     </div>
                                     <div class="info">
                                         <p>
-                                            Article smiling respect opinion excited. Welcomed humoured rejoiced peculiar to remaining conveying.
+                                            Our level of involvement can range from teaching you the basic anatomy to being comprehensively educated about the medical malpractice and how to approach your case from a medical standpoint.
                                         </p>
                                          <button type="button" class="btn btn-info"><i class="fa fa-angle-right"></i> Read More </button>
                                     </div>
@@ -184,12 +184,7 @@
                                             <span class="alert-error"></span>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input class="form-control" id="date" name="date" placeholder="Appointment Date" type="text">
-                                            <span class="alert-error"></span>
-                                        </div>
-                                    </div>
+                                    
                                     
                                 </div>
                                 <div class="row">
@@ -218,7 +213,7 @@
                         <h5>Consultation</h5>
                         <h2>Book an appointment.</h2>
                         <p>
-                            Departure so attention pronounce satisfied daughters am. But shy tedious pressed studied opinion entered windows off. Advantage dependent suspicion convinced provision him yet. Timed balls match at by rooms we. Fat not boy neat left had with past here call. Court nay merit few nor party learn.
+                            
                         </p>
                         <div class="steps">
                             <ul>

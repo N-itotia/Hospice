@@ -8,7 +8,7 @@
                             <p>
                                 Athenia Medicolegal Consultancy addresses the complex issues on cases where medical and legal worlds collide.
                             </p>
-                            <!--<a class="btn btn-md left-icon btn-gradient"  href="#"><i class="fas fa-plus"></i> Blood Bank</a>-->
+                            
                             <div class="social">
                                 <h5>Follow Us:</h5>
                                 <ul>
@@ -18,10 +18,12 @@
                                     <li class="twitter">
                                         <a href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li class="youtube">
+                                    <li class="instagram">
+                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                    </li>
+                                    <li class="linkedin">
                                         <a href="#"><i class="fab fa-linkedin"></i></a>
                                     </li>
-                                    
                                 </ul>
                             </div>
                         </div>

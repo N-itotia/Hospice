@@ -18,11 +18,11 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <h1>About Us</h1>
-                   <!-- <ul class="breadcrumb">
+                   <ul class="breadcrumb">
                         <li><a href="index.php"><i class="fas fa-home"></i> Home</a></li>
                         
                         <li class="active">About Us</li> 
-                    </ul> -->
+                    </ul>
                 </div>
             </div>
         </div>
@@ -46,12 +46,46 @@
                         <h5>About Us</h5>
                         <h2>Are you a lawyer, a legal firm or an insurance company dealing with medical cases?</h2>
                         <p>
-                            Athenia Medicolegal Consultancy addresses the complex issues on cases where medical and legal worlds collide. Founded by board-certified pathologists, we bring on vast experience in interpreting medical cases both in life and death and court appearances as expert witnesses in forensic cases. To cater for the unique requirements of each client and case, we have a team of medical specialists drawn from a variety of fields. Our main goal is to provide individualized expert medical opinion and tactful strategic consultatiuon. This ensures better legal outcomes for our clients especially in complex litigations.
+                            Athenia Medical Experts is a medical legal consultation firm led by medical specialists. Our main vision is to form a connection between medicine and law by providing medical expertise in litigation with the goal of solving challenges so that our clients have successful outcomes. We achieve this by providing strategic medical consultation to the legal community. We provide adept analysis to ensure you present your case with expertise through research, analysis and explanation of the medical issues involved.
+                        </p><p>Our level of involvement can range from teaching you the basic anatomy to being comprehensively educated about the medicine, the medical malpractice and how to approach your case from a medical standpoint.</p>
+                            <p>We also assist in screening of cases, developing action plans, and proceeding with the case till final judgement. </p>
+                        <ul>
+                            <li>
+                                <div class="info">
+                                    <h4>Benefits we offer to our Clients</h4>
+                                    <div class="items">
+                                        <span>Offer advice on viability a case after review</span>
+                                        <span>Aid in constructing a case with guidance</span>
+                                        <span>Avoid costly mistakes</span>
+                                        <span>One on one approach</span>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div></div></div></div>
+    <!-- End Our About -->
+      <div class="about-area features-area default-padding">
+        <!-- Shape -->
+        <div class="shape">
+            <img src="assets/img/shape/3.svg" alt="Shape">
+        </div>
+        <!-- End Shape -->
+        <div class="container-medium">
+            <div class="about-items features-item-box">
+                <div class="row">
+                    <div class="col-lg-5 info">
+                        <h5>More About Us</h5>
+                        
+                        <p>
+                            Athenia Medical Experts reviews medical malpractice cases to determine their potential for litigation. Our medical legal consultation provides our clients with reasonably priced clinical expertise in distinguishing real medical malpractice from the occurrence of known possible complications or a failure to communicate between physician and patient therefore avoiding a rather long and expensive court process. All analyses are performed by our team of highly qualified medical specialists in various fields of specialisation.</p><p>
+                            Athenia Medical Experts can also aid you in finding an expert witness when going to court and prepare a solid case therefore offering a favourable outcome. Whatever your medical malpractice case may consist of, work with us to ensure your case is in reliable hands. 
                         </p>
                         <ul>
                             <li>
                                 <div class="info">
-                                    <h4>Our Fields include</h4>
+                                     <h4>Our Services include</h4>
                                     <div class="items">
                                         <span>Medical Negligence</span>
                                         <span>Wrongful Death</span>
@@ -63,64 +97,25 @@
                             </li>
                         </ul>
                     </div>
+                        <div class="col-lg-7 thumb-box">
+                        <div class="thumb">  
+                            <img src="assets/img/gavel.jpg" alt="Thumb">
+                            <img src="assets/img/law.jpg" alt="Thumb">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Our About -->
+    
+    
 
     <!-- Star Feature Entry Area
+
     ============================================= -->
     
     
     
-    <div class="feature-entry-area default-padding-bottom">
-        <!-- Shape -->
-        <div class="shape">
-            <img src="assets/img/shape/1.png" alt="Shape">
-        </div>
-        <!-- End Shape -->
-        <div class="container">
-            <div class="feature-entry-items text-center">
-                <div class="row">
-                    <!-- Single Item -->
-                    <div class="col-lg-4 single-item">
-                        <div class="item">
-                            <i class="flaticon-ambulance-1"></i>
-                            <h4>Emergency Case</h4>
-                            <p>
-                                Moment he at on wonder at season little. Six garden result summer set family esteem nay estate.
-                            </p>
-                            <a class="btn circle btn-theme border btn-sm" href="#">Read More</a>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-md-4 offset-md-4 single-item">
-                        <div class="item">
-                            <i class="flaticon-clock"></i>
-                            <h4>Opening Hours</h4>
-                            <ul>
-                                <li> <span> Mon - Tue :  </span>
-                                  <div class="float-right"> 8:00 - 17:30 </div>
-                                </li>
-                                <li> <span> Wed - Thu :</span>
-                                  <div class="float-right"> 9:00 - 16:45 </div>
-                                </li>
-                                <li> <span> Sun : </span>
-                                  <div class="float-right closed"> Closed </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                   
-                    <!-- End Single Item -->
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- End Feature Entry Area -->
 
     

@@ -95,14 +95,7 @@
 
             <div class="container">
 
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                       <!-- <li class="search"><a href="#"><i class="ti-search"></i></a></li> -->
-                       <!-- <li class="side-menu"><a href="#"><i class="ti-menu-alt"></i></a></li> -->
-                    </ul>
-                </div>        
-                <!-- End Atribute Navigation -->
+              
 
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
@@ -123,20 +116,21 @@
                             
                         </li>
                         <li class="dropdown">
-                            <a href="about-us.php"  >About us</a>
-
-                        </li>
-                        <li class="dropdown">
                             <a href="services.php">Services</a>
                             
                         </li>
+                        <li class="dropdown">
+                            <a href="about-us.php"  >About us</a>
+
+                        </li>
+                        
                         
                         <li class="dropdown">
                             <a href="blog.php">Blog</a>
                             
                         </li>
                         <li>
-                            <a href="contact.php">contact</a>
+                            <a href="contact.php">contact us</a>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
