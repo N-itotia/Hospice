@@ -24,7 +24,7 @@
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-                <div class="carousel-item active bg-cover" style="background-image: url(assets/img/pich1.jpg);">
+                <div class="carousel-item active bg-cover" style="background-image: url(assets/img/law.jpg);">
                     <div class="box-table shadow dark">
                         <div class="box-cell">
                             <div class="container">
@@ -124,7 +124,7 @@
                             <div class="col-lg-6 col-md-6 single-item">
                                 <div class="item">
                                     <div class="thumb">
-                                        <img src="assets/img/pich2.jpg" alt="Thumb">
+                                        <img src="assets/img/pic6.jpg" alt="Thumb">
                                     </div>
                                     <div class="content-box">
                                         <div class="info-title">

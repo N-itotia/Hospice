@@ -115,10 +115,10 @@
                             <a href="index.php"  >Home</a>
                             
                         </li>
-                        <li class="dropdown">
+                       <!-- <li class="dropdown">
                             <a href="services.php">Services</a>
                             
-                        </li>
+                        </li> -->
                         <li class="dropdown">
                             <a href="about-us.php"  >About us</a>
 
