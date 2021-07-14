@@ -125,10 +125,10 @@
                         </li>
                         
                         
-                        <li class="dropdown">
+                        <!--<li class="dropdown">
                             <a href="blog.php">Blog</a>
                             
-                        </li>
+                        </li> -->
                         <li>
                             <a href="contact.php">contact us</a>
                         </li>

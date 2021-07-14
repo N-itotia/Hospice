@@ -51,15 +51,15 @@
                     </div> 
                     <div class="single-item col-lg-4 col-md-7 item">
                         <div class="f-item link" >
-                            <h4 class="widget-title">Usefull Links</h4>
+                            <h4 class="widget-title">Useful Links</h4>
                             <ul>
                                 <li>
                                     <a href="index.php" style="color:white">Home</a>
                                 </li>
                                 
-                                <li>
+                                <!-- <li>
                                     <a href="blog.php"style="color:white">Blog</a>
-                                </li> 
+                                </li> -->
                                 
                                 <li>
                                     <a href="about-us.php" style="color:white">About Us</a>
